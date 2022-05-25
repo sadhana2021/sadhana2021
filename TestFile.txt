@@ -3,3 +3,6 @@ to learn Git commands
 
 Test 1
  To add a file to the git repository
+
+Test 2
+ To update the file with the second test
