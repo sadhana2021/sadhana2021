@@ -1,2 +1,5 @@
 This is test file
 to learn Git commands
+
+Test 1
+ To add a file to the git repository
